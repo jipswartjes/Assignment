@@ -4,5 +4,5 @@
 
 [Assignment 3](https://github.com/jipswartjes/Assignment/blob/master/assignment3.ipynb)
 
-[Assigment_4](https://github.com/jipswartjes/Assignment/blob/master/assignment4.ipynb)
+[Assigment 4](https://github.com/jipswartjes/Assignment/blob/master/assignment4.ipynb)
 
