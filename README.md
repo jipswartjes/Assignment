@@ -7,3 +7,5 @@
 [Assignment 4](https://github.com/jipswartjes/Assignment/blob/master/assignment4.ipynb)
 
 [Assignment 1 R](https://github.com/jipswartjes/Assignment/blob/master/Graded_assignment1.ipynb)
+
+[Assignment 2 R](https://github.com/jipswartjes/Assignment/blob/master/Graded_assignment_2.ipynb)
