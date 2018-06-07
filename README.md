@@ -12,4 +12,4 @@
 
 [Exam 07-06 Python](https://github.com/jipswartjes/Assignment/blob/master/exam_june_7_2018.ipynb)
 
-
+[Exam 07-06 Python[(https://github.com/jipswartjes/Assignment/blob/master/Exam_student.ipynb)
